@@ -1,0 +1,5 @@
+This file is used by the program python_sha1.py.
+The text in this file will be read by the program and will be hashed.
+
+To use the program, type in the terminal having the program:
+python python_sha1.py file-to-be-hashed.txt
